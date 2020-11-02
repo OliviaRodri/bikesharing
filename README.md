@@ -18,7 +18,7 @@ The purpose of this analysis was to extract data from the New York City Bike Sha
 ### Top Starting Locations
 	
 
-![LINE_GRAPH_HERE](Resources\Top_start.png)
+![LINE_GRAPH_HERE](Resources/Top_start.png)
 
 This visualization of 'Top Starting Locations' displays popular starting points for bike users by size and color. Starting points for least amount of bikes used are represented by small and light colored cirlces. The higher amount of bike usage, the biger size and darker color become, ultimately displaying the most popular starting point for bike users. For example, the largest / darkest colored circle on map indicates New York City Hall having over 16,000 as the number of starting points for biker users in its location.
 
@@ -88,4 +88,4 @@ This information could give insight for suscription costs on how to offer accord
   
 
 
-[link to dashboard]([LINK GOES HERE](https://public.tableau.com/shared/KHMTJRWKJ?:display_count=y&:origin=viz_share_link))
+[link to dashboard]([NYC Citi Bike Sharing](https://public.tableau.com/shared/KHMTJRWKJ?:display_count=y&:origin=viz_share_link))
