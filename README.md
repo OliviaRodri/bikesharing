@@ -73,14 +73,14 @@ This visualization of 'August Peak Hours' indicates the peak hours for the month
 
 ## Summary
 
-The summary of this analysis indicates a high use of bike sharing by suscribed users. 
+The summary of this analysis indicates a high use of bike sharing by subscribed users. 
 The hour for high demand of bike users is betwen 7am and 9am to then the highest bikes used, between 5pm and 7pm.  The days for high demand of bike users are between Tuesday and Thursday, with Thursday being the highest in bike usage.  This analysis also indicates there is a grand difference between genders for bike sharing. 
 Below are the results of each gender's peak of usage:
 - Male bike suscribers peak count was 259,316 
 - Female bike suscribers peak count was 88,281
 - Unknown Gender bike suscribers peak count was 6,082
 
-Another visualization of more details on type of users (suscribed and non suscribers) and purpose of using bike sharing, may be informative. What are the bike user's purpose for bike sharing? Are the rides for recreational purposes or functional maneuvering through the city purposes? This information could give insight for subscription costs on how to offer accordingly to the bike sharing audience. Another visualization for this analysis could be to extract weather data for each season. This would factor in when it is suitable to open and close bike sharing throughout the year.   
+Another visualization of more details on type of users (subscribed and non-subscribed) with reason for rides, may be informative. What are the bike user's purpose for bike sharing? Are the rides for recreational purposes or functional maneuvering through the city purposes? This information could give insight for subscription costs on how to offer accordingly to the bike sharing audience. Another visualization for this analysis could be to extract weather data for each season. This would factor in when it is suitable to open and close bike sharing throughout the year.   
   
 
 
