@@ -8,7 +8,7 @@ retrieve data from a bike share program from New York City and create visualizat
 
  ### Purpose
 
-The purpose of this analysis was to extract data from the New York City Bike Share Program and use Tableau to create graphs to inform how a bike share program is used by its users, suscribers/non-suscribers. The graphs were then used to create a visualization story for the purpose on how to plan accordingly for a bike share business in Des Moine, Iowa. The visualization story would then be presented for for a potential angel investor for the business.
+The purpose of this analysis was to extract data from the New York City Bike Share Program and use Tableau to create map/graphs to inform how a bike share program is used by its suscribers/non-suscriber users. A visualization story was created for the purpose on how to plan accordingly for a bike share business in Des Moine, Iowa. The visualization story would then be presented for a potential angel investor for the business.
 
 	
 ## Results 
@@ -17,7 +17,7 @@ The purpose of this analysis was to extract data from the New York City Bike Sha
 	
  ![LINE_GRAPH_HERE](Resources/Top_start.PNG)
 
-This visualization of 'Top Starting Locations' displays popular starting points for bike users by size and color. Starting points for least amount of bikes used are represented by small and light colored cirlces. The higher amount of bike usage, the biger size and darker color become, ultimately displaying the most popular starting point for bike users. For example, the largest / darkest colored circle on map indicates New York City Hall having over 16,000 as the number of starting points for biker users in its location.
+This visualization of 'Top Starting Locations' displays popular starting points for bike users by size and color. Starting points for least amount of bikes used are represented by small and light colored cirlces. The higher amount of bike usage, the biger size and darker color the circles become. The variety in circles displays the popular starting points for bike users. For example, the largest / darkest colored circle on map, indicates New York City Hall having over 16,000 as the number of starting points for biker users in its location.
 
 ### Checkout Times by Users
 
@@ -81,7 +81,7 @@ Below are the results of each gender's peak of usage:
 - Unknown Gender bike suscribers peak count was 6,082
 
 Another visualization of more details on type of users (suscribed and non suscribers) and purpose of using bike sharing, may be informative. What are the bike user's purpose for bike sharing? Are their rides for recreational purposes or functional manuvering through the city purposes?
-This information could give insight for suscription costs on how to offer accordingly to the audience. Another visualization for this analysis could be of extracted weather data for each season. This would give insight on when it is suitable to open and close bike sharing throughout the year.   
+This information could give insight for suscription costs on how to offer accordingly to the bike sharing audience. Another visualization for this analysis could be to extract weather data for each season. This would give insight on when it is suitable to open and close bike sharing throughout the year.   
   
 
 
